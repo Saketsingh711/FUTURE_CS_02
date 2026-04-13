@@ -1,4 +1,4 @@
-Phishing Analysis & Awareness System 🛡️
+**Phishing Analysis & Awareness System 🛡️**
 
 Cyber Security Task 2 - Future Interns
 🎯 Overview
